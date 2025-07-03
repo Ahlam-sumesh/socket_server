@@ -10,7 +10,7 @@ A simple TCP socket server written in C.
 
 ## 🔧 How to Compile
 
-```bash
+
 gcc socket_server.c -o socket_server
 
 🚀 How to Execute
